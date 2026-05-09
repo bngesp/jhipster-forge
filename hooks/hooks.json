@@ -1,0 +1,13 @@
+{
+  "SessionStart": [
+    {
+      "matcher": {},
+      "hooks": [
+        {
+          "type": "prompt",
+          "prompt": "Check if the current working directory contains a JHipster project by looking for a `.yo-rc.json` file. If found, read it and extract: applicationType (monolith/microservice/gateway), baseName, authenticationType, prodDatabaseType, and buildTool. Then display a brief single-line context banner like: '⚡ JHipster project detected: [baseName] ([applicationType], [auth], [db]) — use /jhipster-forge:forge-entity, /jhipster-forge:forge-jdl, /jhipster-forge:forge-new and more.' If no `.yo-rc.json` is found, do nothing."
+        }
+      ]
+    }
+  ]
+}
