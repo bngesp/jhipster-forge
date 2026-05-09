@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "jhipster-forge",
+  "description": "First dedicated Claude Code plugin for JHipster 8.x — generate entities, DTOs, JDL models, services with production-grade architectural patterns built-in.",
+  "owner": {
+    "name": "Bassir Oungom",
+    "email": "bassiroungom26@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "jhipster-forge",
+      "description": "Generate JHipster 8.x entities, DTOs, JDL models, services and more from Claude Code. Includes Sealed Interface, Strategy+Registry, Collect-Then-Fail, MapStruct patterns. Supports monolith and microservices/gateway.",
+      "author": {
+        "name": "Bassir Oungom"
+      },
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/bngesp/jhipster-forge.git"
+      },
+      "homepage": "https://github.com/bngesp/jhipster-forge"
+    }
+  ]
+}
