@@ -3,7 +3,7 @@
   "name": "jhipster-forge",
   "description": "First dedicated Claude Code plugin for JHipster 8.x — generate entities, DTOs, JDL models, services with production-grade architectural patterns built-in.",
   "owner": {
-    "name": "Bassir Oungom",
+    "name": "Bassirou Ngom",
     "email": "bassiroungom26@gmail.com"
   },
   "plugins": [

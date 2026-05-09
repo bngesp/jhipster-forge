@@ -85,7 +85,7 @@ This plugin is opinionated and applies these patterns from the Spring Boot 3.x +
 
 ## Author
 
-Bassir Oungom — bassiroungom26@gmail.com
+Bassirou Ngom — bassiroungom26@gmail.com
 
 ## License
 

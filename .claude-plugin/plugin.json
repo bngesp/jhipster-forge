@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "First dedicated Claude Code plugin for JHipster 8.x — generate entities, DTOs, JDL, services and more with architectural patterns built-in (Spring Boot 3.x, Angular, microservices/gateway).",
   "author": {
-    "name": "Bassir Oungom",
+    "name": "Bassirou Ngom",
     "email": "bassiroungom26@gmail.com"
   },
   "homepage": "https://github.com/bassiroungom/jhipster-forge",
